@@ -1,6 +1,7 @@
 These are weapons that i got off the internet and made from replacements to addons for FiveM.  None of the weapon.meta files are edited for damage.
 
 My Discord: https://discord.gg/hJQZAcCK5z
+My YouTube: https://www.youtube.com/@TateFiveM
 
 --<!>-- Weapons Used --<!>--
 
